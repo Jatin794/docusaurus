@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+---
+
+
 Welcome to my humble site. As of now I'm switching my backend, and this site should load considerably fast. This site isn't exactly live yet, though you can check out [https://playground.jatinnagpal.com/](https://playground.jatinnagpal.com/) for some useful tools (upcoming; currently it's a text-to-emoji converter using morse code) and [https://blog.jatinnagpal.com/](https://blog.jatinnagpal.com/) for my (upcoming) blog. Also [https://crypto.jatinnagpal.com](https://crypto.jatinnagpal.com) for getting into cryptocurrencies (currently a makeshift page, but the links are up-to-date). This whole thing will soon have some dope design and content. In the meanwhile, feel free to hit me up for some unlicensed consultancy in law, investment, technology, or just anything and everything under the sun. (If you got my WhatsApp. I'll soon enable a more public way.)
 
 If you know me, drop me a message that you were here. I'll probs treat you to something. (Limited time offer)

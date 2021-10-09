@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Jatin Nagpal',
-  tagline: 'Work In Progress',
+  tagline: 'Welcome to my In-Progress main page',
   url: 'https://jatinnagpal.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -16,7 +16,7 @@ module.exports = {
     navbar: {
       title: 'Shiny Button',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Shiny Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -24,12 +24,12 @@ module.exports = {
           type: 'doc',
           docId: 'Welcome',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Main Content',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://www.linkedin.com/in/jatinngpl/',
+          label: 'LinkedIn',
           position: 'right',
         },
       ],
@@ -47,19 +47,19 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Personals',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Portfolio (coming soon)',
+              href: 'https://about.jatinnagpal.com',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Goodreads',
+              href: 'https://goodreads.com/JatinNagpal',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/JatinNagpalTG',
             },
           ],
         },
@@ -67,17 +67,17 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Videos and Private Content Service (Coming soon)',
               to: '/blog',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Jatin794',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Jatin Nagpal. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
